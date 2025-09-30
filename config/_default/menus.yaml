@@ -1,0 +1,35 @@
+hide_download: true
+hide_download_original: null
+leftnav:
+- identifier: 806697d9-a77b-cfb5-791d-be64ae934dc9
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 7d2ea4af-b24a-df20-2423-9a0889bc50ab
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 2dd8a6bf-697c-cc23-b282-ae6f9dec5b6f
+  name: Lecture Videos
+  pageRef: /video_galleries/lecture-videos
+  weight: 30
+- identifier: 51ba9637-0a92-32f2-88ab-0bef851c9ad4
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 40
+- identifier: 400e6a8d-35c4-e497-f645-fe19629c58f3
+  name: Quizzes
+  pageRef: /pages/quizzes
+  weight: 50
+- identifier: 60da50f1-00f1-a813-476b-6e6a65e98226
+  name: Practice Problems
+  pageRef: /pages/practice-problems
+  weight: 60
+- identifier: bdb6c046-d849-dd11-ab64-cdea4975d145
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 70
+- identifier: d8f3bab7-a81a-a2de-20cc-c78674a64694
+  name: Resource Index
+  pageRef: /pages/resource-index
+  weight: 80
