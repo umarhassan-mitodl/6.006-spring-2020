@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: Practice problems and solutions for 6.006 Introduction to Algorithms.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Practice Problems

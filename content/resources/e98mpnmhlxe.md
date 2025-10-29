@@ -4,8 +4,6 @@ description: ''
 file: /courses/6-006-introduction-to-algorithms-spring-2020/805c9ab9aa473d3f11a8ffd48f5a3ec0_e98MPnMHLxE.srt
 file_size: 141616
 file_type: application/x-subrip
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

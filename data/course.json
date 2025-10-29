@@ -34,7 +34,6 @@
     "website": "6-006-introduction-to-algorithms-spring-2020"
   },
   "course_title": "Introduction to Algorithms",
-  "hide_download": true,
   "course_description": "This course is an introduction to mathematical modeling of computational problems, as well as common algorithms, algorithmic paradigms, and data structures used to solve these problems. It emphasizes the relationship between algorithms and programming and introduces basic performance measures and analysis techniques for these problems.\n",
   "department_numbers": [
     "6"
@@ -45,7 +44,6 @@
     "content": "89d89284-fa01-5e96-2118-dd6201006c98",
     "website": "6-006-introduction-to-algorithms-spring-2020"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets with Solutions",

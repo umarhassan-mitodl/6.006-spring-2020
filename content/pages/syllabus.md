@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: Syllabus and course description for 6.006 Introduction to Algorithms.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -32,7 +30,7 @@ This is an introductory course covering elementary data structures (dynamic arra
 Textbooks
 ---------
 
-Written course material will be distributed via notes from lectures and recitations. An additional useful reference is [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262033848) _[Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition)_ by Cormen, Leiserson, Rivest, and Stein (Third Edition, MIT Press) ISBN: 9780262033848, commonly known as _CLRS_, though this text is not required for the course.
+Written course material will be distributed via notes from lectures and recitations. An additional useful reference is {{% resource_link "41005767-c29a-4c10-940b-b0d54994bae3" "![Buy at MIT Press](/images/mp_logo.gif)" %}} _{{% resource_link "e9da5560-802f-463d-9b3f-09c22ab4376e" "Introduction to Algorithms" %}}_ by Cormen, Leiserson, Rivest, and Stein (Third Edition, MIT Press) ISBN: 9780262033848, commonly known as _CLRS_, though this text is not required for the course.
 
 Grading
 -------

@@ -2,8 +2,6 @@
 content_type: page
 description: Full assignments, including python and LaTeX files, with solutions for
   6.006 Introduction to Algorithms
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
